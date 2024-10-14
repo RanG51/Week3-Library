@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGJSoahh3saoEakWH8jMfp9EA/IEJyxWrpNIGskWTtwMmoizUPZI0C19UAf9Fn09UknYIRGW5q2n+49p5hFD7w==",
+  "success": true,
+  "projectFilePath": "/Users/ran_05/Desktop/lap-w3/library/library/library.csproj",
+  "expectedPackageFiles": [
+    "/Users/ran_05/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ran_05/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ran_05/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
